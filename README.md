@@ -23,6 +23,7 @@ Signals used
 
 
 Applications in biomedical engineering
+
   1.Understanding ECG, EEG, and EMG signal processing
   2.Designing and validating biomedical filters
   3.Teaching core concepts in Signals and Systems
