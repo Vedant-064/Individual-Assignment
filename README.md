@@ -25,10 +25,15 @@ Signals used
 Applications in biomedical engineering
 
   1.Understanding ECG, EEG, and EMG signal processing
+  
   2.Designing and validating biomedical filters
+  
   3.Teaching core concepts in Signals and Systems
+  
   4.Pre-processing and analysis of physiological data
+
 
 Requirements
    1. MATLAB (any recent version)
+      
    2. Basic knowledge of Signals and Systems
